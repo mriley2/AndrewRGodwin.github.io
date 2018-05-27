@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: blue;
+    background-color: LightSkyBlue;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -22,8 +22,8 @@ a:hover {
 h1 {
     line-height: 1.6em;
     text-align: center;
-    border: 2px dashed #f69c55;
-    font-size: 14px;
+    border: 2px dashed #00008B;
+    font-size: 3em;
     padding: 11px;
     color: black;
     font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
