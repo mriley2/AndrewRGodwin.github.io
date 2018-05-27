@@ -20,8 +20,10 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    height: 90px;
+    line-height: 90px;
     text-align: center;
-    line-height: 500px;
+    border: 2px dashed #f69c55;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
