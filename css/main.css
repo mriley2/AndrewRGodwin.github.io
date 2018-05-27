@@ -24,7 +24,9 @@ h1 {
     line-height: 1.6em;
     text-align: center;
     border: 2px dashed #f69c55;
-    font-size: 3em;
+    font-size: 14px;
+    padding: 11px;
+    color: black;
     font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
