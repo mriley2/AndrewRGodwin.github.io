@@ -21,8 +21,8 @@ a:hover {
 }
 h1 {
     text-align: center;
+    vertical-align: text-top middle;
     font-size: 3em;
-    line-height: 10em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
