@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: blue;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -26,7 +27,6 @@ h1 {
     font-size: 3em;
     font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    background-color: blue;
 }
 p {
     font-size: 1.5em;
