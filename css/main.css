@@ -20,8 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    height: 90px;
-    line-height: 90px;
+    line-height: 1.6;
     text-align: center;
     border: 2px dashed #f69c55;
     font-size: 3em;
