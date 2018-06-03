@@ -30,8 +30,8 @@ h1 {
 }
 
 h2 {
-    text-align: right; 
-    padding: 20px;
+    text-align: left; 
+    padding: 30px;
     color: white;
     font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
