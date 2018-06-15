@@ -19,9 +19,10 @@ a {
 }
 
 <!-- about, cv, etc. buttons -->
+
 nav ul li a {
     border-style: solid;
-    background-color: lightgrey;
+    background-color: red;
     
 }
 nav ul li a:hover {
