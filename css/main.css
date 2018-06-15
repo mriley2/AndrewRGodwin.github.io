@@ -20,12 +20,12 @@ a {
 
 <!-- about, cv, etc. buttons -->
 
-nav ul li a {
+nav a {
     border-style: solid;
     background-color: red;
     
 }
-nav ul li a:hover {
+nav a:hover {
     text-decoration: underline;
 }
 h1 {
