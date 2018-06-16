@@ -13,6 +13,6 @@ nav a:hover {
 }
 
 nav a:active {
-
+  color: red;
 }
   
