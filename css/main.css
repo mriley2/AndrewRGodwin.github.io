@@ -9,7 +9,7 @@ h1, h2{
 nav a:link {
   color: white;
   text-decoration: none;
-  background: blue;
+  background: LightSkyBlue;
   padding: 10px;
   border-style: solid;
   border-color: white;
@@ -20,16 +20,16 @@ nav a:visited {
 }
 
 nav a:hover {
-  color: blue;
+  color: LightSkyBlue;
   text-decoration: none;
   background: white;
   padding: 10px;
   border-style: solid
-  border-color: blue;
+  border-color: LightSkyBlue;
 }
 
 nav a:active {
-  color: red;
+  color: silver;
 }
 
 .nav_button{
