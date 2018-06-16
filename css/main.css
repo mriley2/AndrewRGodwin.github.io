@@ -30,6 +30,6 @@ nav a:active {
 
 .nav_button{
   float: left;
-  display: inline-block;
+  margin: 10px
 }
   
