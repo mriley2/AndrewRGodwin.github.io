@@ -1,10 +1,16 @@
+body{
+  background-color: black;
+}
+
 nav a:link {
-  color: black;
+  color: white;
   text-decoration: none;
+  background: blue;
+  padding: 10px;
 }
 
 nav a:visited {
-  color: black;
+  color: white;
 }
 
 nav a:hover {
