@@ -1,14 +1,15 @@
 nav a:link {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 nav a:visited {
-  
+  color: black;
 }
 
 nav a:hover {
-  
+  color: blue;
+  text-decoration: underline;
 }
 
 nav a:active {
