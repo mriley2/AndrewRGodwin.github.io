@@ -16,6 +16,8 @@ nav a:visited {
 nav a:hover {
   color: blue;
   text-decoration: underline;
+  background: white;
+  padding: 10px;
 }
 
 nav a:active {
