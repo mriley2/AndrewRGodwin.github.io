@@ -27,4 +27,8 @@ nav a:hover {
 nav a:active {
   color: red;
 }
+
+.nav_button{
+  display: inline-block;
+}
   
