@@ -7,6 +7,10 @@ h1{
   text-align: center;
 }
 
+nav{
+  text-align: center;
+}
+
 nav a:link {
   color: white;
   text-decoration: none;
