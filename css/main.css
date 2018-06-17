@@ -40,3 +40,8 @@ nav a:active {
 nav{
   margin: auto;
 }
+
+img{
+  position: absolute;
+  right: 10px;
+}
