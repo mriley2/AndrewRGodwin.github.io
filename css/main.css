@@ -36,7 +36,7 @@ nav a:active {
 .nav_button{
   float: left;
   position:relative;
-  left:50%;
+  left:40%;
   margin: 10px;
 }
 
