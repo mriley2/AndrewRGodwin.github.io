@@ -34,12 +34,12 @@ nav a:active {
 
 .nav_button{
   float: left;
-  margin: 10px
+  margin: 10px;
 }
   
 nav{
-  padding-top: 100px
-  padding-left: 100px
+  padding-top: 100px;
+  padding-left: 100px;
 }
 
 img{
