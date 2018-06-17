@@ -34,14 +34,8 @@ nav a:active {
 }
 
 .nav_button{
-  display: inline-block;
+  float: left;
   margin: 10px;
-}
-  
-nav{
-  position: absolute;
-  right: 200px;
-  top: 0px;
 }
 
 img{
