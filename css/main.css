@@ -37,3 +37,6 @@ nav a:active {
   margin: 10px
 }
   
+nav{
+  margin: auto;
+}
