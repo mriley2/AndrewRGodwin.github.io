@@ -1,0 +1,113 @@
+.conn{
+	background-color: LightSkyBlue;
+	padding: 30px;
+	padding-top: 2px;
+	padding-left: 40px;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.milton{
+	background-color: #ffad33;
+	padding: 30px;
+	padding-top: 2px;
+	padding-left: 40px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img{
+	float: right;
+	padding-top: 20px;
+	padding-right: 15px;
+}
+
+h3{
+	color: MidnightBlue;
+	margin-bottom: 0;
+}
+
+h5{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.ConnButtons_1 li, .ConnButtons_2 li, .MiltonButtons li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+.ConnButtons_1 a:link, .ConnButtons_2 a:link, .MiltonButtons a:link{
+	padding-right: 0px;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.ConnButtons a:link{
+	background: rgba(40,107,148,0.6);
+}
+
+.ConnButtons a:hover{
+	background: rgba(40,107,148,1.0);
+}
+
+.MiltonButtons a:link{
+	background: rgba(214,122,6,0.6);
+}
+
+.MiltonButtons a:hover{
+	background: rgba(214,122,6,1.0);
+}
+
+.ConnButtons_1 a:hover, .ConnButtons_2 a:hover, .MiltonButtons a:hover{
+	padding-right: 0px;
+	border-radius: 5px;
+	padding: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#courses{
+	padding-left: 109px;
+	padding-right: 109px;
+}
+
+#projects{
+	padding-left: 81px;
+	padding-right: 81px;
+}
+
+#activities{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#research{
+	padding-left: 103px;
+	padding-right: 103px;
+}
+
+.ConnButtons{
+	margin-left: 140px;
+}
+
+.ConnButtons_1{
+	margin-bottom: 50px;
+	margin-top: 50px;
+
+}
+
+.MiltonButtons{
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-left: 140px;
+}
+
+
